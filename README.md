@@ -1,6 +1,8 @@
 # simple-js-template
 simple js template with minimal webpack set-up
 
+# Usage
+
 Clone it with [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
